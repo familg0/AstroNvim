@@ -19,7 +19,7 @@ return {
       pattern = ([[ [%'%"%)%>%]%)%}%,] ]]):gsub("%s+", ""),
       offset = 0,
       end_key = "$",
-      keys = "qwertyuiopzxcvbnmasdfghjkl",
+      keys = "qwertyuiopasdfghjklzxcvbnm",
       check_comma = true,
       highlight = "PmenuSel",
       highlight_grey = "LineNr",
